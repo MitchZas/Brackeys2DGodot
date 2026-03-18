@@ -305,3 +305,13 @@ theme_override_colors/font_color = Color(0.011764706, 0.14901961, 0.34901962, 1)
 theme_override_fonts/font = ExtResource("7_1l0tm")
 theme_override_font_sizes/font_size = 8
 text = "Don't Fall..."
+
+[node name="Jump Label3" type="Label" parent="Labels" unique_id=645659715]
+offset_left = 767.0
+offset_top = -59.0
+offset_right = 881.0
+offset_bottom = -36.0
+theme_override_colors/font_color = Color(0.011764706, 0.14901961, 0.34901962, 1)
+theme_override_fonts/font = ExtResource("7_1l0tm")
+theme_override_font_sizes/font_size = 8
+text = "Almost there!"
